@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+bower_modules
+.tmp
+.sass-cache
+
+/Project\ Files/components/bower/*
+/Project\ Files/builds/production/*
+/Project\ Files/builds/production/fonts/*
+/Project\ Files/builds/development/fonts/*

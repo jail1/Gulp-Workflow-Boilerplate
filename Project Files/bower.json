@@ -1,0 +1,37 @@
+{
+  "name": "Mox - Under Construction Template",
+  "version": "1.1.1",
+  "description": "Coming soon / Under Construction template",
+  "main": "index.js",
+  "keywords": [
+    "Under",
+    "Construction",
+    "Template",
+    "Comming",
+    "Soon"
+  ],
+  "authors": [
+    "Iacob Silviu - Iulian@Blissterra"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jail1/xom-un-constr-tem",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "fontawesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "ionicons": "~2.0.1",
+    "vegas": "~2.1.3",
+    "jquery.mb.YTPlayer": "~2.9.4",
+    "jquery-backstretch": "~2.0.4",
+    "animate.css": "~3.4.0",
+    "animateCSS": "~1.2.1",
+    "bootstrap-sass": "~3.3.5"
+  }
+}
